@@ -2,7 +2,9 @@
 
 This was a website built to showcase my technical skills, web design skills.
 
-## Project Link: www.krishnaprasaad.live
+## Project Link:
+
+https://www.krishnaprasaad.live
 
 ### Technologies Used
 
