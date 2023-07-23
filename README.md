@@ -14,5 +14,6 @@ https://www.krishnaprasaad.live
 - Git
 - GitHub
 - React
+- PHP
 - Webpack
 - Node JS
